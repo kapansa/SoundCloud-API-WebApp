@@ -64,7 +64,7 @@ soundCloudAPI.renderTracks = function(tracks){
 
         var img = document.createElement("img");
         img.classList.add("image_img");
-        img.src = track.artwork_url || "http://lorempixel.com/100/100/abstract/";
+        img.src = track.artwork_url || "https://i.ibb.co/6F9BPbv/Soundcloud.jpg";
 
         image.appendChild(img);
 
