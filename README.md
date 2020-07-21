@@ -1,5 +1,6 @@
 # SoundCloud-API-WebApp
-##### This a Music webApp build by using SoundCloud APIs.
+
+The full guide on how to implement the SoundCloud API can be found [Here](https://developers.soundcloud.com/docs/api/guide).
 
 # Implementation
 To implememt the API in your own webApp you can add the code to your files.
